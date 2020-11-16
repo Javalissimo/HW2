@@ -1,5 +1,4 @@
-package HomeTask;
-
+package HomeWork;
 
 public enum Discipline {
     JAVA,

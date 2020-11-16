@@ -1,4 +1,4 @@
-package HomeTask;
+package HomeWork;
 
 public interface Autochecked {
 

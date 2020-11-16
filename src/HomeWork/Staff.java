@@ -1,4 +1,5 @@
-package HomeTask;
+package HomeWork;
+
 
 public interface Staff {
 
@@ -7,5 +8,4 @@ public interface Staff {
     default void giveAdditionalStaff() {
         System.out.println("https://habr.com/ru/");
     }
-    }
-
+}

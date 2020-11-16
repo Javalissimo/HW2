@@ -1,4 +1,5 @@
-package HomeTask;
+package HomeWork;
+
 
 public class Test extends Task implements Autochecked {
 

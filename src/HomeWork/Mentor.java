@@ -1,4 +1,7 @@
-package HomeTask;
+package HomeWork;
+
+
+
 import java.util.Random;
 
 public class Mentor extends Person implements Staff {
@@ -32,7 +35,4 @@ public class Mentor extends Person implements Staff {
 
 
 }
-
-
-
 

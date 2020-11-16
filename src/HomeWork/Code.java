@@ -1,6 +1,6 @@
-package HomeTask;
+package HomeWork;
 
-public class Code extends Task{
+public class Code extends Task {
     String textCode;
 
     public Code () {

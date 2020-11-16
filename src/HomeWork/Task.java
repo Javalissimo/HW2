@@ -1,4 +1,4 @@
-package HomeTask;
+package HomeWork;
 
 public abstract class Task {
     int number;
